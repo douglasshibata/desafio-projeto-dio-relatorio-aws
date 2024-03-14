@@ -4,7 +4,9 @@ Redução dos Custos em Farmácias com AWS
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 Data: 14/03/2024
+
 Empresa: FarmoTech 
+
 Responsável: 
 
 ## Introdução
